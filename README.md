@@ -50,11 +50,11 @@ To run navigation:
 
 _Localization_
 ``` bash
-ros2 launch nav2_bringup navigation_launch.py params_file:=./src/rosbot_ros/rosbot_description/settings/nav2_params.yaml use_sim_time:='True
+ros2 launch nav2_bringup localization_launch.py params_file:=./src/rosbot_ros/rosbot_description/settings/amcl_params.yaml map:=./maps/map.yaml use_sim_time:='True'
 ```
 _Navigation_
 ``` bash
-ros2 launch nav2_bringup localization_launch.py params_file:=./src/rosbot_ros/rosbot_description/settings/amcl_params.yaml map:=./maps/map.yaml use_sim_time:='True'
+ros2 launch nav2_bringup navigation_launch.py params_file:=./src/rosbot_ros/rosbot_description/settings/nav2_params.yaml use_sim_time:='True'
 ```
 
 **_Real robot_**
