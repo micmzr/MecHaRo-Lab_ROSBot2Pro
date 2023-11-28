@@ -12,7 +12,7 @@ _Install_
 
 ``` bash
 git clone -b humble https://github.com/micmzr/MecHaRo-Lab_ROSBot2Pro.git
-cd ws_ros2_husarion
+cd MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion
 rosdep install --ignore-src --from-path src/ -y --rosdistro $ROS_DISTRO
 colcon build
 source install/setup.bash
