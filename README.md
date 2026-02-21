@@ -39,7 +39,7 @@ ros2 launch slam_toolbox online_sync_launch.py slam_params_file:=./src/rosbot_ro
 ```
 _Keyboard control_
 ``` bash
-ros2 run teleop_twist_keyboard teleop_twist_keyboard
+ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -p use_sim_time:=True --ros-args -p stamped:=true --ros-args --remap cmd_vel:=/cmd_vel
 ```
 _Map saver_
 ``` bash
@@ -74,7 +74,7 @@ ros2 launch slam_toolbox online_sync_launch.py slam_params_file:=./src/rosbot_ro
 ```
 _Keyboard controll_
 ``` bash
-ros2 run teleop_twist_keyboard teleop_twist_keyboard
+ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -p use_sim_time:=True --ros-args -p stamped:=true --ros-args --remap cmd_vel:=/cmd_vel
 ```
 _Map saver_
 ``` bash
