@@ -67,7 +67,7 @@ def generate_launch_description():
             rosbot_ros2_control_params,
         ],
         remappings=[
-            ('rosbot_base_controller/cmd_vel_unstamped', 'cmd_vel'),
+            ('rosbot_base_controller/cmd_vel', 'cmd_vel'),
             ('odom', 'rosbot_base_controller/odom'),
             ('rosbot/laser', '/scan'),
             ('rosbot/rl_range', '/range/rl'),

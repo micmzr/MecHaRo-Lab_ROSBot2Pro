@@ -11,7 +11,7 @@ Everything presented here is mean to be run on the PC. Though navigation may wor
 _Install_
 
 ``` bash
-git clone -b humble https://github.com/micmzr/MecHaRo-Lab_ROSBot2Pro.git
+git clone -b jazzy https://github.com/micmzr/MecHaRo-Lab_ROSBot2Pro.git
 cd MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion
 rosdep install --ignore-src --from-path src/ -y --rosdistro $ROS_DISTRO
 colcon build

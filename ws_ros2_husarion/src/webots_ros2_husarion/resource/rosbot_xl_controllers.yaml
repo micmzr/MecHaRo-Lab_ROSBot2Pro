@@ -19,7 +19,7 @@ rosbot_xl_base_controller:
     base_frame_id: "base_link"
     odom_frame_id: "odom"
 
-    use_stamped_vel: false
+    use_stamped_vel: true
     enable_odom_tf: false
     linear:
       x:
