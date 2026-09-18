@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<robot name="rosbot" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <xacro:arg name="use_sim" default="false" />
+  <xacro:arg name="use_gpu" default="false" />
+  <xacro:arg name="simulation_engine" default="" />
+
+  <xacro:include filename="$(find rosbot_description)/urdf/rosbot_macro.urdf.xacro" ns="husarion" />
+  <xacro:husarion.rosbot_robot use_sim="$(arg use_sim)" simulation_engine="$(arg simulation_engine)"/> 
+
+  <xacro:include filename="$(find ros_components_description)/urdf/slamtec_rplidar_a2.urdf.xacro" ns="lidar" />
+  <xacro:lidar.slamtec_rplidar_a2
+    parent_link="cover_link"
+    xyz="0.02 0.0 0.0"
+    rpy="0.0 0.0 0.0"
+    use_gpu="$(arg use_gpu)"
+    simulation_engine="$(arg simulation_engine)" />
+
+  <xacro:include filename="$(find ros_components_description)/urdf/orbbec_astra.urdf.xacro" ns="camera" />
+  <xacro:camera.orbbec_astra
+    parent_link="camera_link"
+    tf_prefix="camera"
+    frame_id="depth_frame"
+    xyz="0.0 0.0 0.0"
+    rpy="0.0 0.0 0.0"
+    simulation_engine="$(arg simulation_engine)" />
+
+</robot>

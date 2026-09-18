@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/rosbot_xl_description/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

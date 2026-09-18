@@ -1,0 +1,44 @@
+running egg_info
+creating ../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info
+writing ../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info/PKG-INFO
+writing dependency_links to ../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info/dependency_links.txt
+writing requirements to ../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info/requires.txt
+writing top-level names to ../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info/top_level.txt
+writing manifest file '../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info/SOURCES.txt'
+reading manifest file '../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info/SOURCES.txt'
+writing manifest file '../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/webots_ros2_husarion/build/lib/webots_ros2_husarion
+copying webots_ros2_husarion/__init__.py -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/webots_ros2_husarion/build/lib/webots_ros2_husarion
+running install
+running install_lib
+creating /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/lib/python3.14/site-packages/webots_ros2_husarion
+copying /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/webots_ros2_husarion/build/lib/webots_ros2_husarion/__init__.py -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/lib/python3.14/site-packages/webots_ros2_husarion
+byte-compiling /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/lib/python3.14/site-packages/webots_ros2_husarion/__init__.py to __init__.cpython-314.pyc
+running install_data
+creating /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/ament_index/resource_index/packages
+copying resource/webots_ros2_husarion -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/ament_index/resource_index/packages
+creating /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/launch
+copying launch/rosbot_launch.py -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/launch
+copying launch/rosbot_xl_launch.py -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/launch
+creating /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+copying resource/rosbot_controllers.yaml -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+copying resource/rosbot_xl_controllers.yaml -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+copying resource/ekf.yaml -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+copying resource/laser_filter.yaml -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+creating /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds
+copying worlds/rosbot.wbt -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds
+copying worlds/rosbot_xl.wbt -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds
+creating /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds/meshes
+copying worlds/meshes/husarion_world.dae -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds/meshes
+creating /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/protos/icons
+copying protos/icons/Rosbot.png -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/protos/icons
+copying protos/icons/RpLidarA2.png -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/protos/icons
+copying protos/RpLidarA2.proto -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/protos
+copying protos/Rosbot.proto -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion/protos
+copying package.xml -> /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/share/webots_ros2_husarion
+running install_egg_info
+Copying ../../build/webots_ros2_husarion/webots_ros2_husarion.egg-info to /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/webots_ros2_husarion/lib/python3.14/site-packages/webots_ros2_husarion-0.0.0-py3.14.egg-info
+running install_scripts
+writing list of installed files to '/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/webots_ros2_husarion/install.log'

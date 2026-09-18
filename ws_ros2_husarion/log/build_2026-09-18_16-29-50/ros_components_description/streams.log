@@ -1,0 +1,55 @@
+[0.010s] Invoking command in '/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/src/ros_components_description -DCMAKE_INSTALL_PREFIX=/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description
+[0.053s] -- The C compiler identification is GNU 15.2.0
+[0.132s] -- The CXX compiler identification is GNU 15.2.0
+[0.139s] -- Detecting C compiler ABI info
+[0.229s] -- Detecting C compiler ABI info - done
+[0.250s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.250s] -- Detecting C compile features
+[0.251s] -- Detecting C compile features - done
+[0.269s] -- Detecting CXX compiler ABI info
+[0.344s] -- Detecting CXX compiler ABI info - done
+[0.354s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.354s] -- Detecting CXX compile features
+[0.354s] -- Detecting CXX compile features - done
+[0.366s] -- Found ament_cmake: 2.8.8 (/opt/ros/lyrical/share/ament_cmake/cmake)
+[0.684s] -- Configuring done (0.7s)
+[0.685s] -- Generating done (0.0s)
+[0.686s] -- Build files have been written to: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description
+[0.689s] Invoked command in '/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/src/ros_components_description -DCMAKE_INSTALL_PREFIX=/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description
+[0.691s] Invoking command in '/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description -- -j20 -l20
+[0.727s] Invoked command in '/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description -- -j20 -l20
+[0.735s] Invoking command in '/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description
+[0.744s] -- Install configuration: ""
+[0.745s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/meshes
+[0.745s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/meshes/velodyne_puck.dae
+[0.745s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/meshes/orbbec_astra.dae
+[0.745s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/meshes/ouster_os1_32.dae
+[0.745s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/meshes/slamtec_rplidar_a2m8.dae
+[0.746s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/meshes/intel_realsense_d435.dae
+[0.746s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/meshes/slamtec_rplidar_s1.dae
+[0.746s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/meshes/slamtec_rplidar_ax.dae
+[0.746s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/urdf
+[0.746s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/urdf/intel_realsense_d435.urdf.xacro
+[0.746s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/urdf/ouster_os1_32.urdf.xacro
+[0.747s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/urdf/orbbec_astra.urdf.xacro
+[0.747s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/urdf/slamtec_rplidar_s1.urdf.xacro
+[0.747s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/urdf/slamtec_rplidar_a3.urdf.xacro
+[0.747s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/urdf/velodyne_puck.urdf.xacro
+[0.747s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/urdf/slamtec_rplidar_a2.urdf.xacro
+[0.748s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ament_index/resource_index/package_run_dependencies/ros_components_description
+[0.748s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ament_index/resource_index/parent_prefix_path/ros_components_description
+[0.748s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/environment/ament_prefix_path.sh
+[0.748s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/environment/ament_prefix_path.dsv
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/environment/path.sh
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/environment/path.dsv
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/local_setup.bash
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/local_setup.fish
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/local_setup.sh
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/local_setup.zsh
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/local_setup.dsv
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/package.dsv
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ament_index/resource_index/packages/ros_components_description
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/cmake/ros_components_descriptionConfig.cmake
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/cmake/ros_components_descriptionConfig-version.cmake
+[0.749s] -- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/ros_components_description/share/ros_components_description/package.xml
+[0.749s] Invoked command in '/home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/ros_components_description

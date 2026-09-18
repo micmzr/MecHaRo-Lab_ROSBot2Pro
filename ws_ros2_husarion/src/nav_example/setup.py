@@ -21,7 +21,6 @@ setup(
     maintainer_email='user@todo.todo',
     description='ROS2 Python package to navigate a mobile robot to an example pose',
     license='TODO: License declaration',
-    tests_require=['pytest'],
     entry_points={
         'console_scripts': [
             'nav_to_pose_node = nav_example.nav_to_pose_node:main'

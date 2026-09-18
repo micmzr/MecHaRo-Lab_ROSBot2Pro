@@ -28,7 +28,6 @@ setup(
     maintainer_email='jakub.delicat@husarion.com',
     description='TODO: Package description',
     license='TODO: License declaration',
-    tests_require=['pytest'],
     entry_points={
         'console_scripts': [
         ],

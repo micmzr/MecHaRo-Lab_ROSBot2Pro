@@ -1,0 +1,54 @@
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.8.8 (/opt/ros/lyrical/share/ament_cmake/cmake)
+-- Configuring done (0.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/build/rosbot_xl_description
+-- Install configuration: ""
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/body.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/mecanum_b.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/wheel_b.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/body_colision.stl
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/wheel_a.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/mecanum_a.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/components
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/components/camera_mount_bot.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/components/antenna_connector.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/components/camera_mount_top.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/components/camera_mount_mid.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/meshes/components/antenna.dae
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/urdf
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/urdf/body.urdf.xacro
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/urdf/rosbot_xl.urdf.xacro
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/urdf/wheel.urdf.xacro
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/urdf/rosbot_xl_macro.urdf.xacro
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/urdf/components
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/urdf/components/camera_mount.urdf.xacro
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/urdf/components/antenna.urdf.xacro
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/ament_index/resource_index/package_run_dependencies/rosbot_xl_description
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/ament_index/resource_index/parent_prefix_path/rosbot_xl_description
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/environment/ament_prefix_path.sh
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/environment/ament_prefix_path.dsv
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/environment/path.sh
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/environment/path.dsv
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/local_setup.bash
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/local_setup.fish
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/local_setup.sh
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/local_setup.zsh
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/local_setup.dsv
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/package.dsv
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/ament_index/resource_index/packages/rosbot_xl_description
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/cmake/rosbot_xl_descriptionConfig.cmake
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/cmake/rosbot_xl_descriptionConfig-version.cmake
+-- Installing: /home/mmazur/Prace/MecHaRo-Lab_ROSBot2Pro/ws_ros2_husarion/install/rosbot_xl_description/share/rosbot_xl_description/package.xml
